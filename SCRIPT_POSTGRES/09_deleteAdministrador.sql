@@ -1,0 +1,1 @@
+delete from categoria_empleados where id_categoria_empleado = 3

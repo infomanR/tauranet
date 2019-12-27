@@ -1,0 +1,2 @@
+alter table users
+rename column nombre_fotoperil to nombre_fotoperfil
